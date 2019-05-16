@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Introduction": ["using/motivation", "using/how-it-works"],
+    "Getting Started": ["getting-started/installation", "getting-started/config"],
+    "Contributing": ["contributing/contributing"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
