@@ -279,7 +279,7 @@ class Index extends React.Component {
                   <h3>Easy integration with CI</h3>
                   <p>You can run performance-budgets with one command. If your CI system can use Docker then add the simple command to start monitoring your applications.</p>
                   <p>The Docker container will exit with a failure if budgets are not met.</p>
-                  <a class="learnmore" href="/docs/getting-started/config">
+                  <a class="learnmore" href="/docs/getting-started/installation">
                     Learn more
                   </a>
                 </div>
