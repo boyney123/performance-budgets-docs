@@ -90,7 +90,7 @@ class HomeSplash extends React.Component {
               </div>
             </div>
             <div className="browser__body">
-              <img src={imgUrl("/perfbudget.gif")} />
+              <img src={imgUrl("/example.gif")} />
             </div>
           </div>
 
